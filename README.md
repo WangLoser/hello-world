@@ -1,2 +1,2 @@
 # hello-world
-newbee
+just a newbee
